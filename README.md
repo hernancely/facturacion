@@ -12,3 +12,5 @@ se crean las clases cliente y medidor con sus respectivos setter y getters, se h
 ##AGREGACION DE DATOS
 
 Se crea un linkedlist para guardar los datos, en este caso la clase objeto. luego se crea el objeto cliente y se agregan los datos, posteriormente se imprimen por consola.
+
+### se modifica el README.md ya que no se dejo espacio entre el # y el texto y no lo tomaba como debia.
